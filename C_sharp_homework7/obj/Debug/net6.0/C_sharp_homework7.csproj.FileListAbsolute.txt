@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\bin\Debug\net6.0\C_sharp_homework7.exe
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\bin\Debug\net6.0\C_sharp_homework7.deps.json
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\bin\Debug\net6.0\C_sharp_homework7.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\bin\Debug\net6.0\C_sharp_homework7.dll
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\bin\Debug\net6.0\C_sharp_homework7.pdb
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\obj\Debug\net6.0\C_sharp_homework7.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\obj\Debug\net6.0\C_sharp_homework7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\obj\Debug\net6.0\C_sharp_homework7.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\obj\Debug\net6.0\C_sharp_homework7.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\obj\Debug\net6.0\C_sharp_homework7.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\obj\Debug\net6.0\C_sharp_homework7.dll
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\obj\Debug\net6.0\refint\C_sharp_homework7.dll
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\obj\Debug\net6.0\C_sharp_homework7.pdb
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\obj\Debug\net6.0\C_sharp_homework7.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework7\obj\Debug\net6.0\ref\C_sharp_homework7.dll
